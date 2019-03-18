@@ -1,0 +1,22 @@
+{
+  "name": "api-chatbot",
+  "version": "1.0.0",
+  "description": "backend ChatBot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fernando Antunes",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "consign": "^0.1.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "express-validator": "^2.20.8",
+    "mongoose": "^5.2.15",
+    "uniqid": "^5.0.3",
+    "url": "^0.11.0"
+  }
+}

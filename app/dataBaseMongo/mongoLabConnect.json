@@ -1,0 +1,5 @@
+{
+    "dbuser": "chatbot",
+    "dbpassword": "bot123",
+    "base": "@ds225028.mlab.com:25028/chatbot-database"
+}
