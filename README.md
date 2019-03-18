@@ -10,3 +10,9 @@ Api base para um sistema de chatBot
 
 4) para executar a app, no diretorio raiz utilize o comando "npm start"
 
+Os endPoints são:
+
+http://localhost:3000/messages/
+
+http://localhost:3000/bots/
+
